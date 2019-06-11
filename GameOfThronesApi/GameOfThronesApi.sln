@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfThronesApi", "GameOfThronesApi\GameOfThronesApi.csproj", "{BA560011-27A4-4AFC-8320-AA844D8002B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfThronesApi.Models", "GameOfThronesApi.Models\GameOfThronesApi.Models.csproj", "{FC20ACB5-3932-4272-B31A-7D8614362F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfThronesApi.Services", "GameOfThronesApi.Services\GameOfThronesApi.Services.csproj", "{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Debug|x64.ActiveCfg = Debug|x86
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Debug|x64.Build.0 = Debug|x86
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Debug|x86.ActiveCfg = Debug|x86
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Debug|x86.Build.0 = Debug|x86
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Release|x64.ActiveCfg = Release|Any CPU
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Release|x64.Build.0 = Release|Any CPU
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Release|x86.ActiveCfg = Release|Any CPU
+		{BA560011-27A4-4AFC-8320-AA844D8002B5}.Release|x86.Build.0 = Release|Any CPU
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Debug|x64.ActiveCfg = Debug|x86
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Debug|x64.Build.0 = Debug|x86
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Debug|x86.ActiveCfg = Debug|x86
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Debug|x86.Build.0 = Debug|x86
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Release|x64.ActiveCfg = Release|Any CPU
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Release|x64.Build.0 = Release|Any CPU
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Release|x86.ActiveCfg = Release|Any CPU
+		{FC20ACB5-3932-4272-B31A-7D8614362F7E}.Release|x86.Build.0 = Release|Any CPU
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Debug|x64.ActiveCfg = Debug|x86
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Debug|x64.Build.0 = Debug|x86
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Debug|x86.ActiveCfg = Debug|x86
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Debug|x86.Build.0 = Debug|x86
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Release|x64.ActiveCfg = Release|Any CPU
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Release|x64.Build.0 = Release|Any CPU
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Release|x86.ActiveCfg = Release|Any CPU
+		{B580BCBF-3792-43E7-922B-1ABFD83B0C9C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F91F215-74DB-45AD-8BC7-C6B077CA3843}
+	EndGlobalSection
+EndGlobal
